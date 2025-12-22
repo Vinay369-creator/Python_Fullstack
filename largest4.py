@@ -13,3 +13,6 @@ else:
         print('b is greatest')
     else:
         print('c is greatest')
+    else:
+        print('d is smaller')
+
